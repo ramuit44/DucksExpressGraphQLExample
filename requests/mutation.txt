@@ -1,0 +1,8 @@
+mutation createPerson($firstName: String!, $lastName: String!, $dob: String!) {
+  createPerson(firstName: $firstName, lastName: $lastName, dob: $dob) {
+    id,
+    firstName
+    lastName
+    dob
+  }
+}

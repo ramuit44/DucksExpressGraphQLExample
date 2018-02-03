@@ -1,0 +1,15 @@
+{
+  person(id:572303226) {
+    firstName
+    lastName
+    dob
+    address {
+      street
+      city
+      state
+      country
+      postcode
+      propertyNumber
+    }
+  } 
+}
