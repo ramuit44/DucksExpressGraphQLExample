@@ -12,4 +12,4 @@ This is the express version of the Appolo server for local development. For prod
 
 ### Who do I talk to? ###
 
-* Sriram/ Adrian/ Test
+* Sriram
