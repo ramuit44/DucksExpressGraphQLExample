@@ -1,9 +1,8 @@
 # GRAPHQL SERVER FOR BAMBOO #
 
-The Graphql API interface layer for Bamboo. All the microservices API's of Bamboo are abstracted  via the graphql api. And information is fetched 
-according to what the user(UI) wants.
+The Graphql API interface layer for Multiple Micro service API. All the microservices API's are abstracted  via the graphql api. And information is fetched according to what the user(UI) wants. The GraphQL server code is organised into Ducks as reference.
 
-This is the express version of the Appolo server for local development. For prod we would be using the lamda version of the Appolo sever.
+This is the express version of the Appolo server for local development. For prod we are using the lamda version of the Appolo sever.
 
 
 ### SETUP ###
